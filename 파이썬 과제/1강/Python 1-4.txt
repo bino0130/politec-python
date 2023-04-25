@@ -1,2 +1,2 @@
-for i in range(8) :
-    print((i + 1) * "*")
+for i in range(8) : ## 0부터 8 미만까지 1씩 증가하는 반복문
+    print((i + 1) * "*") ## (i + 1) * "*" (별찍기)
